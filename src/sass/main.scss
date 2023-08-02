@@ -1,0 +1,9 @@
+// BASE
+@import "./base/tailwindcss.scss";
+@import "./base/variables.scss";
+@import "./base/global.scss";
+// COMPONENTS
+@import "./component/nav.scss";
+@import "./component/service";
+// MEDIA
+@import "./media/nav-m.scss"
